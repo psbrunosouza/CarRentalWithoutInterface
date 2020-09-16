@@ -1,0 +1,13 @@
+C:\Users\Bruno Pinheiro\Documents\WS-vs_2019\ProcessRentalCar\ProcessRentalCar\obj\Debug\netcoreapp3.1\ProcessRentalCar.csprojAssemblyReference.cache
+C:\Users\Bruno Pinheiro\Documents\WS-vs_2019\ProcessRentalCar\ProcessRentalCar\obj\Debug\netcoreapp3.1\ProcessRentalCar.AssemblyInfoInputs.cache
+C:\Users\Bruno Pinheiro\Documents\WS-vs_2019\ProcessRentalCar\ProcessRentalCar\obj\Debug\netcoreapp3.1\ProcessRentalCar.AssemblyInfo.cs
+C:\Users\Bruno Pinheiro\Documents\WS-vs_2019\ProcessRentalCar\ProcessRentalCar\obj\Debug\netcoreapp3.1\ProcessRentalCar.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Pinheiro\Documents\WS-vs_2019\ProcessRentalCar\ProcessRentalCar\bin\Debug\netcoreapp3.1\ProcessRentalCar.exe
+C:\Users\Bruno Pinheiro\Documents\WS-vs_2019\ProcessRentalCar\ProcessRentalCar\bin\Debug\netcoreapp3.1\ProcessRentalCar.deps.json
+C:\Users\Bruno Pinheiro\Documents\WS-vs_2019\ProcessRentalCar\ProcessRentalCar\bin\Debug\netcoreapp3.1\ProcessRentalCar.runtimeconfig.json
+C:\Users\Bruno Pinheiro\Documents\WS-vs_2019\ProcessRentalCar\ProcessRentalCar\bin\Debug\netcoreapp3.1\ProcessRentalCar.runtimeconfig.dev.json
+C:\Users\Bruno Pinheiro\Documents\WS-vs_2019\ProcessRentalCar\ProcessRentalCar\bin\Debug\netcoreapp3.1\ProcessRentalCar.dll
+C:\Users\Bruno Pinheiro\Documents\WS-vs_2019\ProcessRentalCar\ProcessRentalCar\bin\Debug\netcoreapp3.1\ProcessRentalCar.pdb
+C:\Users\Bruno Pinheiro\Documents\WS-vs_2019\ProcessRentalCar\ProcessRentalCar\obj\Debug\netcoreapp3.1\ProcessRentalCar.dll
+C:\Users\Bruno Pinheiro\Documents\WS-vs_2019\ProcessRentalCar\ProcessRentalCar\obj\Debug\netcoreapp3.1\ProcessRentalCar.pdb
+C:\Users\Bruno Pinheiro\Documents\WS-vs_2019\ProcessRentalCar\ProcessRentalCar\obj\Debug\netcoreapp3.1\ProcessRentalCar.genruntimeconfig.cache
